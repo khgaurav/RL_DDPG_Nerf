@@ -1,0 +1,14 @@
+{
+    "batch_size": 16,
+    "n_steps": 256,
+    "gamma": 0.99,
+    "learning_rate": 8.170508912845396e-05,
+    "ent_coef": 0.00017182124670595984,
+    "clip_range": 0.3,
+    "n_epochs": 20,
+    "gae_lambda": 0.98,
+    "max_grad_norm": 2,
+    "vf_coef": 0.826807936319546,
+    "net_arch": "tiny",
+    "activation_fn": "tanh"
+}

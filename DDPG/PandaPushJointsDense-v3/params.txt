@@ -1,0 +1,135 @@
+Iteration 0:
+actor_lr: 0.000821004405735459
+critic_lr: 0.0020760047973826475
+gamma: 0.9530338608896429
+tau: 0.001058731766730427
+epsilon: 0.4686273102279189
+batch_size: 253
+buffer_size: 84931
+
+Iteration 1:
+actor_lr: 1e-05
+critic_lr: 0.0001
+gamma: 0.9
+tau: 0.0024936194949302156
+epsilon: 0.1
+batch_size: 32
+buffer_size: 10000.0
+
+Iteration 2:
+actor_lr: 1e-05
+critic_lr: 0.0001
+gamma: 0.9
+tau: 0.0016833185833317922
+epsilon: 0.1
+batch_size: 32
+buffer_size: 10000.0
+
+Iteration 3:
+actor_lr: 1e-05
+critic_lr: 0.00029864869160313565
+gamma: 0.9
+tau: 0.0020172843496973378
+epsilon: 0.1
+batch_size: 32
+buffer_size: 10000.0
+
+Iteration 4:
+actor_lr: 1e-05
+critic_lr: 0.00029864869160313565
+gamma: 0.9
+tau: 0.0020172843496973378
+epsilon: 0.1
+batch_size: 32
+buffer_size: 10000.0
+
+Iteration 0:
+actor_lr: 0.00013420891858143469
+critic_lr: 0.004206142630875585
+gamma: 0.9599140864356679
+tau: 0.0021055820494815672
+epsilon: 0.3309137070987403
+batch_size: 45
+buffer_size: 21655
+
+Iteration 1:
+actor_lr: 0.00013420891858143469
+critic_lr: 0.004206142630875585
+gamma: 0.9599140864356679
+tau: 0.0021055820494815672
+epsilon: 0.3309137070987403
+batch_size: 45
+buffer_size: 21655
+
+Iteration 2:
+actor_lr: 0.00045715354959448604
+critic_lr: 0.01
+gamma: 0.99
+tau: 0.01
+epsilon: 0.5
+batch_size: 256
+buffer_size: 100000.0
+
+Iteration 3:
+actor_lr: 0.00045715354959448604
+critic_lr: 0.01
+gamma: 0.99
+tau: 0.01
+epsilon: 0.5
+batch_size: 256
+buffer_size: 100000.0
+
+Iteration 4:
+actor_lr: 0.00045715354959448604
+critic_lr: 0.01
+gamma: 0.99
+tau: 0.01
+epsilon: 0.5
+batch_size: 256
+buffer_size: 100000.0
+
+Iteration 5:
+actor_lr: 0.00045715354959448604
+critic_lr: 0.01
+gamma: 0.99
+tau: 0.01
+epsilon: 0.5
+batch_size: 256
+buffer_size: 100000.0
+
+Iteration 6:
+actor_lr: 0.0004757181790125458
+critic_lr: 0.009769112347492469
+gamma: 0.99
+tau: 0.006177427560061325
+epsilon: 0.5
+batch_size: 256
+buffer_size: 100000.0
+
+Iteration 7:
+actor_lr: 0.0004757181790125458
+critic_lr: 0.009769112347492469
+gamma: 0.99
+tau: 0.006177427560061325
+epsilon: 0.5
+batch_size: 256
+buffer_size: 100000.0
+
+Iteration 8:
+actor_lr: 0.0004757181790125458
+critic_lr: 0.009769112347492469
+gamma: 0.99
+tau: 0.006177427560061325
+epsilon: 0.5
+batch_size: 256
+buffer_size: 100000.0
+
+Iteration 9:
+actor_lr: 0.0004757181790125458
+critic_lr: 0.009769112347492469
+gamma: 0.99
+tau: 0.006177427560061325
+epsilon: 0.5
+batch_size: 256
+buffer_size: 100000.0
+
